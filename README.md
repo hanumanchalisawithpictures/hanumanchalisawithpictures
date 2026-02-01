@@ -17,7 +17,7 @@ Hindi, English, Marathi, Gujarati, Telugu, Tamil, Kannada, Malayalam, Bengali, P
 
 🙏 Ideal for daily recitation, learning, and spiritual practice.
 
-⬇️ Direct download link:
+### ⬇️ Direct download link:
 ### https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
 
           OR
