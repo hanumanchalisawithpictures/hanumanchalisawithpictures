@@ -1,6 +1,6 @@
-Download this Hanuman Chalisa with Pictures App:
+##Download this Hanuman Chalisa with Pictures App:
 
-📿 Hanuman Chalisa Chitralekha App
+###📿 Hanuman Chalisa Chitralekha App
 – Read, See & Understand 📿
 
 Experience Hanuman Chalisa like never before with
@@ -16,6 +16,7 @@ This app makes Hanuman Chalisa easy, enjoyable, and meaningful for all ages.
 ⬇️ Direct download link:
 https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
 
+or
 🔍 Search on Play Store:
 Hanuman Chalisa Chitralekha
 
