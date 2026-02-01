@@ -1,16 +1,23 @@
-## Hi there 👋
+Download this Hanuman Chalisa with Pictures App:
 
-<!--
-**hanumanchalisawithpictures/hanumanchalisawithpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📿 Hanuman Chalisa Chitralekha App
+– Read, See & Understand 📿
 
-Here are some ideas to get you started:
+Experience Hanuman Chalisa like never before with
+📖 Meaning
+🎨 Illustrative pictures
+🪔 Verse-by-verse explanation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This app makes Hanuman Chalisa easy, enjoyable, and meaningful for all ages.
+✔ Totally free
+✔ Multiple language support
+✔ Simple & beautiful design
+
+⬇️ Direct download link:
+https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
+
+🔍 Search on Play Store:
+Hanuman Chalisa Chitralekha
+
+🙏 May Hanuman Ji bless you with strength and wisdom 🙏
+
