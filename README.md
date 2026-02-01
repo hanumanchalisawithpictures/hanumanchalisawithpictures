@@ -14,9 +14,9 @@ This app makes Hanuman Chalisa easy, enjoyable, and meaningful for all ages.
 ✔ Simple & beautiful design
 
 ⬇️ Direct download link:
-https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
+### https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
 
-or
+          OR
 
 🔍 Search on Play Store:
 ### Hanuman Chalisa Chitralekha
