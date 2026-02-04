@@ -1,7 +1,16 @@
 ## Download this Hanuman Chalisa with Pictures Android App:
 
 ### 📿 Hanuman Chalisa Chitralekha App
-– Read, See & Understand 📿
+
+
+– Read, See & Understand 📿### ⬇️ Direct download link:
+### https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
+
+          OR
+
+🔍 Search on Play Store:
+### Hanuman Chalisa Chitralekha
+
 
 Experience the Hanuman Chalisa like never before with this beautiful App.
 
@@ -16,15 +25,6 @@ View verses, meanings, and transliterations in multiple languages:
 Hindi, English, Marathi, Gujarati, Telugu, Tamil, Kannada, Malayalam, Bengali, Punjabi, and Odia.
 
 🙏 Ideal for daily recitation, learning, and spiritual practice.
-
-### ⬇️ Direct download link:
-### https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures
-
-          OR
-
-🔍 Search on Play Store:
-### Hanuman Chalisa Chitralekha
-
 
 🙏 May Hanuman Ji bless you with strength and wisdom 🙏
 
