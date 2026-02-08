@@ -2,7 +2,45 @@
 
 👇👇👇
 
-[![Download App](https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures)
+<style>
+.hanuman-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hanuman-fly {
+  width: 120px;
+  animation: flyAway 10s linear forwards;
+}
+
+@keyframes flyAway {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(1200px);
+    opacity: 0;
+  }
+}
+</style>
+
+<div class="hanuman-container">
+
+<a href="https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures">
+  <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+<img src="hanuman_flying.png" class="hanuman-fly" alt="Hanuman Ji Flying"/>
+
+</div>
+
 
 👆👆👆
 
