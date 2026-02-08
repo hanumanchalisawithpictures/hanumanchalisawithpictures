@@ -8,28 +8,7 @@
   <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white">
 </a>
 
-<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
-  <image src="hanumanjiFlying.png" width="120" height="120" y="20">
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="1200 0"
-      dur="10s"
-      fill="freeze"
-    />
-    <animate
-      attributeName="opacity"
-      from="1"
-      to="0"
-      begin="8s"
-      dur="2s"
-      fill="freeze"
-    />
-  </image>
-</svg>
-
-
+<img src="hanumanjiFlying.gif" width="140" alt="Hanuman Ji Flying with Wind">
 
 👆👆👆
 
