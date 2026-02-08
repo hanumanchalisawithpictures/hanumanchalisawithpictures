@@ -1,46 +1,33 @@
 
-<style>
-.hanuman-container {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  position: relative;
-  overflow: hidden;
-}
-
-.hanuman-fly {
-  width: 120px;
-  animation: flyAway 10s linear forwards;
-}
-
-@keyframes flyAway {
-  0% {
-    transform: translateX(0);
-    opacity: 1;
-  }
-  80% {
-    opacity: 1;
-  }
-  100% {
-    transform: translateX(1200px);
-    opacity: 0;
-  }
-}
-</style>
 
 # 🙏📿 Hanuman Chalisa Chitralekha App
 
 👇👇👇
-
-<div class="hanuman-container">
-
 <a href="https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures">
-  <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white">
 </a>
 
-<img src="hanuman_flying.png" class="hanuman-fly" alt="Hanuman Ji Flying"/>
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <image href="hanuman_flying.png" width="120" height="120" y="20">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="1200 0"
+      dur="10s"
+      fill="freeze"
+    />
+    <animate
+      attributeName="opacity"
+      from="1"
+      to="0"
+      begin="8s"
+      dur="2s"
+      fill="freeze"
+    />
+  </image>
+</svg>
 
-</div>
 
 
 👆👆👆
