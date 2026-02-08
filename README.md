@@ -41,7 +41,7 @@ Hindi, English, Marathi, Gujarati, Telugu, Tamil, Kannada, Malayalam, Bengali, P
   <img src="2.png" width="240" height="480" style="margin: 10px;" />
   <img src="3.png" width="240" height="480" style="margin: 10px;" />
   <img src="4.png" width="240" height="480" style="margin: 10px;" />
-  <img src="5.png" width="360" height="640" style="margin: 10px;" />
+  <img src="5.png" width="480" height="800" style="margin: 10px;" />
 </p>
 
 
