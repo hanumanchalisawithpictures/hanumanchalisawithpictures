@@ -6,8 +6,7 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures">
   <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white">
-</a>
-<img src="hanumanjiFlying.gif" width="140" alt="Hanuman Ji Flying with Wind">
+</a>   <img src="hanumanjiFlying.gif" width="140" alt="Hanuman Ji Flying with Wind">
 
 👆👆👆
 
