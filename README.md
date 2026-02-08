@@ -1,8 +1,11 @@
 # 🙏📿 Hanuman Chalisa Chitralekha App
 
 👇👇👇
+
 [![Download App](https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures)
+
 👆👆👆
+
 Peaceful reading • Images • Multilingual
 
           OR
