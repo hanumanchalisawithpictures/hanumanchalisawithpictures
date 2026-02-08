@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white">
 </a>   
 
-## <img src="hanumanjiFlying.gif" width="140" alt="Hanuman Ji Flying with Wind">
+## <img src="hanumanjiFlying.gif" width="320" alt="Hanuman Ji Flying with Wind">
 
 👆👆👆
 
