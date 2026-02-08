@@ -1,4 +1,6 @@
-🙏📿 **[Download Hanuman Chalisa Chitralekha App](https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures)**  
+# 🙏📿 Hanuman Chalisa Chitralekha App
+
+[![Download App](https://img.shields.io/badge/⬇️_Download-App-1DB954?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures)
 Peaceful reading • Images • Multilingual
 
           OR
@@ -7,9 +9,8 @@ Peaceful reading • Images • Multilingual
 ### Hanuman Chalisa Chitralekha
 
 
-### 📿 Hanuman Chalisa Chitralekha Android App
-– Read, See & Understand 📿
 
+– Read, See & Understand 📿
 
 Experience the Hanuman Chalisa like never before with this beautiful App.
 
