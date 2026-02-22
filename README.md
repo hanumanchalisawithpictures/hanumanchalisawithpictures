@@ -1,5 +1,4 @@
-## 🙏📿 Hanuman Chalisa Chitralekha App
-
+## 🙏📿 Hanuman Chalisa with Pictures
 👇👇👇
 
 <a href="https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures">
@@ -10,12 +9,12 @@
 
 👆👆👆
 
-Peaceful reading • Images • Multilingual
+Peaceful reading • Images • Meaning • Multilingual
 
           OR
 
 🔍 Search on Play Store:
-### Hanuman Chalisa Chitralekha
+### Hanuman Chalisa with Pictures
 
 
 
