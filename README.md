@@ -1,4 +1,4 @@
-## 🙏📿 Hanuman Chalisa Images
+## 🙏📿 Hanuman Chalisa Chitravali
 👇👇👇
 
 <a href="https://play.google.com/store/apps/details?id=com.hanumanchalisawithpictures">
@@ -14,7 +14,7 @@ Peaceful reading • Images • Meaning • Multilingual
           OR
 
 🔍 Search on Play Store:
-### Hanuman Chalisa Images
+### Hanuman Chalisa Chitravali
 
 
 
