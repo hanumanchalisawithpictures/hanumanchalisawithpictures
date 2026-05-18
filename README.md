@@ -40,13 +40,12 @@ Hindi, English, Marathi, Gujarati, Telugu, Tamil, Kannada, Malayalam, Bengali, P
 ### See some screenshots of this app:
 
 <p align="center">
-  <img src="1.png" width="240" height="480" style="margin: 10px;" />
-  <img src="2.png" width="240" height="480" style="margin: 10px;" />
-  <img src="3.png" width="240" height="480" style="margin: 10px;" />
-  <img src="4.png" width="240" height="480" style="margin: 10px;" />
-  <img src="5.png" width="480" height="800" style="margin: 10px;" />
-  <img src="6.png" width="480" height="800" style="margin: 10px;" />
-  <img src="7.png" width="480" height="800" style="margin: 10px;" />
+  <img src="1.webp" width="240" height="480" style="margin: 10px;" />
+  <img src="2.webp" width="240" height="480" style="margin: 10px;" />
+  <img src="3.webp" width="240" height="480" style="margin: 10px;" />
+  <img src="4.webp" width="240" height="480" style="margin: 10px;" />
+  <img src="5.webp" width="480" height="800" style="margin: 10px;" />
+  <img src="6.webp" width="480" height="800" style="margin: 10px;" />
 </p>
 
 
